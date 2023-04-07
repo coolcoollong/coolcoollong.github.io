@@ -71765,7 +71765,7 @@ Kl(a,b){var s=null,r=this.e,q=A.iJ(b,s,A.iL(s,s,r[a]?B.fy:B.j,s,s,s,s,s,s,s,s,s,
 r=r[a]
 return A.pA(!1,!0,A.ug(A.a([q,B.I5,new A.KG(A.fH(s,s,B.j,s,2,s,s,20),r,!0,!0,!0,s)],t.p),B.aJ,B.c5),s,!0,s,s,s,s,s,s,s,new A.ZQ(this,a),s,new A.ZR(),s,s,s,s)},
 a97(){var s=null
-return A.fH(s,new A.pm($.C9().a8Y("markdown/content.md"),new A.ZS(),s,t.jz),s,s,400,s,s,s)}}
+return A.fH(s,new A.pm($.C9().a8Y("assets/markdown/content.md"),new A.ZS(),s,t.jz),s,s,400,s,s,s)}}
 A.ZM.prototype={
 $0(){var s=this.a.d
 s===$&&A.b()
