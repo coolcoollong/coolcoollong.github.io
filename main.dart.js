@@ -73049,7 +73049,7 @@ r.toString
 s.f=r},
 $S:0}
 A.a_J.prototype={
-$0(){B.OV.aaI(window,"assets/markdown/iosdowload.html","baidu")},
+$0(){B.OV.aaI(window,"assets/assets/markdown/iosdowload.html","baidu")},
 $S:0}
 A.a_K.prototype={
 $2(a,b){var s=null,r=b.b
